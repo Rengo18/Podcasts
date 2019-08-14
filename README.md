@@ -6,7 +6,7 @@ App integrada con la Api de AudioBoom para practicar Next.js esta adaptado para 
 
 ![Captura de los canales](./.readme-static/podcasts_channel.png)
 
-![Captura de la reproduccion de un podcasts](./.readme-static/podcasts_clip.png)
+![Captura de la reproduccion de un podcasts](./.readme-static/Podcasts_clip.png)
 
 ##¿Cómo funciona?
 

@@ -2,7 +2,7 @@
 
 App integrada con la Api de AudioBoom para practicar Next.js esta adaptado para mobile 
 
-![Capturas del index](./.readme-static/podcasts_index.png)
+![Capturas del index](./.readme-static/Podcasts_index.png)
 
 ![Captura de los canales](./.readme-static/podcasts_channel.png)
 

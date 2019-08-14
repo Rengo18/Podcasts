@@ -8,6 +8,9 @@ App integrada con la Api de AudioBoom para practicar Next.js esta adaptado para 
 
 ![Captura de la reproduccion de un podcasts](./.readme-static/Podcasts_clip.png)
 
+
+[ver la aplicación](https://podcasts.tincho.now.sh)
+
 ##¿Cómo funciona?
 
 Requiere Node.js
